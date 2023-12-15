@@ -51,4 +51,10 @@
   **Classic Deluxe & Barbecue Chicken Pizzas** are the best sellers and revenue generators
     
   **The Brie Carre Pizza** is at the bottom in both orders and revenue
+  
+#**Recommendations**#
+
+To further enhance sales based on this analysis, it is recommended that weekend promotional offers should be explored, introducing seasonal summer specialty pizzas, and evaluating strategies to enhance the performance of weaker-performing pizzas, whether through recipe adjustments, marketing efforts, or pricing alterations.
+
+Alternatively, discontinuing unpopular pizza options may also be considered. This project highlights the practical application of data insights to drive initiatives aimed at tangibly improving restaurant performance.
 
