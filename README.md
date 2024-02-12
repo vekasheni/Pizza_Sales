@@ -1,12 +1,12 @@
 # 2015 Pizza_Sales
 
-**Tools Used**
+# **Tools Used**
 
 (i) MS SQL Server
 
 (ii) MS excel
 
-**Data Cleaning and Data Manipulation**
+# **Data Cleaning and Data Manipulation**
 
 1. Check for duplicates
   
@@ -20,7 +20,7 @@
 
 6. Saved all the queries in a word document
 
-**Data Visualization**
+# **Data Visualization**
 
 1. Created pivot tables for each queries.
 
@@ -32,25 +32,40 @@
 
 5. Atlast I added timeline slicer for easy manipulation for the year 2015 from January to December.
 
-#**Conclusion**
+# **Conclusion**
 
-**1. Busiest Days & Time**
+* **1. Busiest Days & Time**
 
-  Orders are highest on **weekdays, Friday/Saturday evenings**.
+  * Orders are highest on **weekdays, Friday/Saturday evenings**.
     
-  There are maximum orders from **12-01 pm and after 4-8pm**.
-    
-**2.Sales by category and size**
+  * There are maximum orders from **12-01 pm and after 4-8pm**.
+
+  ![image](https://github.com/vekasheni/Pizza_Sales/assets/146317452/d56ee461-a14c-4fff-aac7-76b0017d1f3a)
+
+
+* **2.Sales by category and size**
 
   **Classic category** contributes to maximum sales and orders.
+
+  ![image](https://github.com/vekasheni/Pizza_Sales/assets/146317452/c8be170c-d8ab-4832-8a15-378f972cccbe)
+
     
   **Large sized pizza** contribute to maximum sales.
 
-**3.Best and Worst Sellers**
+  ![image](https://github.com/vekasheni/Pizza_Sales/assets/146317452/da3d4ab2-64f8-4728-b25c-1cc7a768afe3)
 
-  **Classic Deluxe & Barbecue Chicken Pizzas** are the best sellers and revenue generators
+
+* **3.Best and Worst Sellers**
+
+    **Classic Deluxe & Barbecue Chicken Pizzas** are the best sellers and revenue generators
+
+  ![image](https://github.com/vekasheni/Pizza_Sales/assets/146317452/53729800-6551-4009-a050-8b13d8729983)
+
     
-  **The Brie Carre Pizza** is at the bottom in both orders and revenue
+    **The Brie Carre Pizza** is at the bottom in both orders and revenue
+
+  ![image](https://github.com/vekasheni/Pizza_Sales/assets/146317452/7b72d1f8-caee-4440-a2dd-fa33c6be082e)
+
   
 #**Recommendations**#
 
